@@ -1,7 +1,30 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-
-#slider-4 H1 {
-  font-family: 'Noto Sans', sans-serif;
-  color: #efefef;
-  font-size: 30px;
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#header1-1 H1 {
+  text-align: center;
+}
+#header1-1 P {
+  text-align: center;
+}
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#header1-7 P {
+  color: #7c706b;
+}
+#header1-7 H1 {
+  color: #7c706b;
 }
